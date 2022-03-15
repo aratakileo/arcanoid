@@ -1,2 +1,2 @@
 # Arcanoid Game
- My attempt to create first 2d game without engine, powered by pygame
+ My attempt to create first 2d game without engine, powered by Pygame
