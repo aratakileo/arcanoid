@@ -1,2 +1,2 @@
-# py-first2dgame-arcanoid
+# Arcanoid Game
  My attempt to create first 2d game without engine
