@@ -1,6 +1,6 @@
 # Arcanoid
 Base 2D game, powered by Pygame
-[When were last source code changes](#when-were-last-source-code-changes)
+> [When were last source code changes](#when-were-last-source-code-changes)
 
 ### Control
 - `left arrow`, `right arrow` - movement
